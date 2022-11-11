@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.divClass {
+    font-size: 50px;
+    color: orange;
+    margin: 0 150px;
+    text-align: left;
+}
+
+#spanId {
+    font-size: 150px;
+    margin:-180px;
+    color: chocolate;
+}
+
+h1{
+    color: chocolate;
+    font-size: 70px;
+}
+
+img {
+    width: 400px;
+}
+
+body {
+    background-color: beige;
+    background-image: url(/08-HTML/esta_si.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+    display: flex;
+}
+
+* {
+      font-family: 'Nosifer', cursive;
+    
+}
+
